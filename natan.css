@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(gray, lightgray);
+}
+.h {
+    border-color: aqua;
+    border-width: 20px;
+    border-style: inset;
+}
