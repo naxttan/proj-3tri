@@ -1,8 +1,12 @@
 body {
-    background: linear-gradient(gray, lightgray);
+    background: linear-gradient(gray, lightgray, white);
 }
 .h {
-    border-color: aqua;
+    border-color: blue;
     border-width: 20px;
     border-style: inset;
+}
+h2 {
+    text-align: center;
+
 }
