@@ -1,12 +1,82 @@
 body {
-    background: linear-gradient(gray, lightgray, white);
+    background: linear-gradient(gray, lightgray, white, rgb(202, 158, 158));
+
 }
 .h {
     border-color: blue;
     border-width: 20px;
     border-style: inset;
+    display: inline-block;
 }
 h2 {
     text-align: center;
+font-size: 1vw;
 
 }
+.hh{
+    border-color: blue;
+    border-width: 20px;
+    border-style: inset;
+    display: inline-block;
+}
+p{
+    font-size: medium;
+}
+.hhh {
+    border-color: blue;
+    border-width: 20px;
+    border-style: inset;
+    display: inline-block;
+}
+.hhhh {
+    border-color: blue;
+    border-width: 20px;
+    border-style: inset;
+}
+.t {
+    border-color: aquamarine;
+    border-width: 20px;
+    border-style: inset;
+    display: inline-block;
+ }
+ .tt {
+    border-color: aquamarine;
+    border-width: 20px;
+    border-style: inset;
+    display: inline-block;
+ }
+ .ttt {
+    border-color: aquamarine;
+    border-width: 20px;
+    border-style: inset;
+    display: inline-block;
+ }
+ .tttt{
+    border-color: aquamarine;
+    border-width: 20px;
+    border-style: inset;
+    
+ }
+ .d {
+    border-color: green;
+    border-width: 20px;
+    border-style: inset;
+    display: inline-block;
+ }
+ .dd {
+    border-color: green;
+    border-width: 20px;
+    border-style: inset;
+    display: inline-block;
+ }
+ .ddd {
+    border-color: green;
+    border-width: 20px;
+    border-style: inset;
+    display: inline-block;
+ }
+ .dddd {
+    border-color: green;
+    border-width: 20px;
+    border-style: inset;
+ }
